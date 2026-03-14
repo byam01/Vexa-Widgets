@@ -28,7 +28,7 @@ The interface focuses on a clear visual between artwork, track information, and 
 
 Preview
 
-/preview/widget.png
+/preview1.png
 
 ---
 
