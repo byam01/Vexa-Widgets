@@ -28,7 +28,7 @@ The interface focuses on a clear visual between artwork, track information, and 
 
 Preview
 
-/preview1.png
+![Vexa Widget](https://github.com/byam01/Vexa-Widgets/blob/main/preview1.png)
 
 ---
 
