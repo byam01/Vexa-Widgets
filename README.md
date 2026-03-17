@@ -32,6 +32,7 @@ Preview
 
 ![Vexa Widget](https://github.com/byam01/Vexa-Widgets/blob/main/preview_of_w01.png)
 
+![Download Vexa Widget](https://github.com/byam01/Vexa-Widgets/blob/main/Vexa_W01.kwgt)
 ---
 
 Author 
