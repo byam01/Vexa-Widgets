@@ -1,4 +1,5 @@
-Vexa
+![Vexa Widget](https://github.com/byam01/Vexa-Widgets/blob/main/preset_thumb_portrait.jpg)
+# Vexa
 
 Minimal music.
 Minimal interface.
@@ -32,7 +33,7 @@ Preview
 
 ![Vexa Widget](https://github.com/byam01/Vexa-Widgets/blob/main/preview_of_w01.png)
 
-![Download Vexa Widget](https://github.com/byam01/Vexa-Widgets/blob/main/Vexa_W01.kwgt)
+[Download](https://github.com/byam01/Vexa-Widgets/blob/main/Vexa_W01.kwgt)
 ---
 
 Author 
