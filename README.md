@@ -31,6 +31,9 @@ Preview
 
 ![Vexa Widget](https://github.com/byam01/Vexa-Widgets/blob/main/preview1.png)
 
+[Download](https://github.com/byam01/Vexa-Widgets/releases/download/songplayer/Vexa_W01b.kwgt)
+
+
 ![Vexa Widget](https://github.com/byam01/Vexa-Widgets/blob/main/preview_of_w01.png)
 
 [Download](https://github.com/byam01/Vexa-Widgets/releases/tag/w01)
